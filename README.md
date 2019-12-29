@@ -1,1 +1,1 @@
-# CssCheckTemplate
+# CSS Check Template
